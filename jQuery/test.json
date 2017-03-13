@@ -1,0 +1,7 @@
+{
+  "articles": [
+    {"title": "Title 1", "text": "Some text 1", "author": "Maciej"},
+    {"title": "Title 2", "text": "Some text 2", "author": "Arek"},
+    {"title": "Title 3", "text": "Some text 3", "author": "John"}
+  ]
+}

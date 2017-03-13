@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>Formularze</title>
+    <link rel="stylesheet" type="text/css" href="form.css" />
+</head>
+<body>
+    <form method="GET">
+        <label for="tytul">Tytuł</label>
+        <input id ="tytul" name="tytul" type="text" />
+        
+    
+        
+        <label for="textarea">textarea</label>
+        <textarea id="textarea" name="tresc" placeholder="Wpisz treść."></textarea>
+               
+
+        <label for="select">select</label>
+        <select id="select" name="select">
+            <optgroup label="Działa">
+                <option>Trochę</option>
+                <option>Do bani</option>
+            </optgroup>
+            <optgroup label="Nie działa">
+                <option selected>Zupełnie</option>
+                <option>Kompletnie</option>
+            </optgroup>
+        </select>
+        
+       
+        <input class="klikalny" id="klikalny" type="checkbox" name="klikalny" value="on">
+        <label class="klikalny" for="klikalny">KLIKALNY</label>
+<br>
+        <input class="kolko" id="radio" type="radio" name="radio" value="on">
+        <label class="kolko" for="radio">OKRĄGLACZEK</label>
+
+        <label for="hidden">hidden</label>
+        <input name="hidden" type="hidden" />
+
+ 
+        
+        <label for="submit">submit</label>
+        <input name="submit" type="submit" value="Zapisz" />
+
+
+
+
+
+        
+
+    </form>
+</body>
+</html>

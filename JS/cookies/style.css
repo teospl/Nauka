@@ -1,0 +1,26 @@
+body{
+	font-family:Verdana;
+	font-size:14px;
+	margin:0px;
+	background-color:#4d7328;
+	color:white;
+}
+
+#top{
+	margin:0px;
+	padding-top:10px;
+	padding-bottom:10px;
+	font-size:28px;
+	text-align:center;
+	border-bottom: 1px solid black;
+	background-color:#669135;
+}
+
+div{
+	text-align:center;
+	margin-top:15px;
+}
+
+input{
+	cursor:pointer;
+}

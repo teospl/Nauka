@@ -1,0 +1,20 @@
+{
+  "name": "uikit-1",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Maciej Zasada <maciej@unit9.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "uikit": "^2.26.3"
+  }
+}

@@ -1,0 +1,105 @@
+body{
+	font-family:Arial;
+	font-size:14px;
+	margin:0px;
+}
+
+input{
+	width: 50px;
+	text-align:right;
+}
+
+#top{
+	background-color: #262626;
+	height:35px;
+	padding:10px 0px 0px 20px;
+	font-size: 24px;
+	color:#ffffff;
+}
+
+#top div{
+	width:550px;
+	float:left;
+}
+
+#strip{
+	background-color: #e64117;
+	height:5px;
+}
+
+
+
+#produkty{
+	width:540px;
+	float:left;
+	border-right:1px solid #eeeeee;
+	padding:10px 0px 20px 10px;
+}
+
+#produkty a{
+	margin-left:5px;
+}
+
+.produkt{
+	margin:10px 30px 15px 20px;
+	height: 30px;
+	border-bottom:1px solid #dddddd;
+}
+
+.produkt div{
+	width:33%;
+	float:left;
+	
+}
+
+.ll{
+	padding-top:10px;
+}
+
+.rr{
+	text-align:right; 
+	padding-top:3px;
+}
+
+
+
+
+#koszyk{
+	width: 300px;
+	float:left;
+	margin-left:10px;
+	padding-top:20px;
+}
+
+.pozycja{
+	height: 30px;
+	margin:0px 0px 0px 15px;
+	border-bottom:1px solid #dddddd;
+}
+
+.pozycja div{
+	width:33%;
+	float:left;
+	padding-top:10px;
+}
+
+#suma{
+	margin-top:20px;
+	margin-left:15px;
+	padding:5px;
+	text-align:center;
+	border:1px solid #dddddd;
+}
+
+#submit{
+	margin-top:5px;
+	text-align:center;
+}
+
+#submit input{
+	width:100px;
+	text-align:center;
+	border:1px solid #dddddd;
+	padding:2px;
+	cursor:pointer;
+}

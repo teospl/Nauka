@@ -1,0 +1,6 @@
+{
+    "questions": [
+        {"id": 1, "pytanie": "Ile nóg ma krowa?", "odp": ["tralalal", "2", "3", "4"], "popr": "4", "tip": "Więcej niż 2."},
+        {"id": 2, "pytanie": "Ile nóg ma kaczka?", "odp": ["1", "2", "3", "4"], "popr": "2", "tip": "Mniej niż 2."}
+    ]
+}

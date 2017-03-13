@@ -1,0 +1,16 @@
+div {
+    background:red;
+    color:white;
+    margin: 10px;
+}
+#unikat{
+    background-color: black;
+    color: aqua;
+    border-color: bisque;
+    border-width: 10px;
+    border-style: solid;
+    text-align: right;
+}
+.testy{
+    text-align: center;
+}

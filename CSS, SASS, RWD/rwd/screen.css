@@ -1,0 +1,35 @@
+body {
+    background-color: orange;
+}
+
+.header-image {
+    display: none;
+    width: 100%;
+}
+
+// @media screen and (max-width: 400px), (min-width: 600px) {
+//     .header-image {
+//         display: block;
+//     }
+// }
+
+@media screen and (orientation: portrait) {
+    .header-image {
+        display: block;
+    }
+}
+
+
+.mobile {
+    display: none;
+}
+
+@media screen and (max-device-width: 400px) {
+    .mobile {
+        display: block;
+    }
+}
+
+p {
+    background-color: yellow;
+}

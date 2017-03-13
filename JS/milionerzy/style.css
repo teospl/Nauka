@@ -1,0 +1,55 @@
+#container {
+    display: inline-block;
+    height: 40px;
+    width: 100%;
+    text-align: center;
+}
+#losuj {
+    display: inline-block;
+    height: 50px;
+    width: 100%;
+}
+#pole-gry {
+    display: inline-block;
+    height: 100px;
+    width: 400px;
+    text-align: center;
+}
+
+#pytanie {
+    display: inline-block;
+    height: 75px;
+    width: 100%;
+    text-align: center;
+}
+
+#buttons {
+    display: inline-block;
+    height: 50px;
+    width: 100%;
+}
+
+#help {
+    display: inline-block;
+    height: 50px;
+    width: 100%;
+}
+
+button {
+    display: inline-block;
+    float: left;
+    height: 25px;
+    width: 50%;
+    text-align: center;
+}
+.hidden {
+    visibility: hidden;
+}
+.good {
+    background-color: green;
+    color: white;
+}
+.wrong {
+    background-color: red;
+    color: white;    
+}

@@ -1,0 +1,86 @@
+body{
+	background-color:#ebe9e1;
+	margin:0px;
+	padding:0px;
+}
+
+#head{
+	background-color:#555;
+	height:100px;
+	border-bottom:1px solid black;
+}
+
+#fraszki{
+	font-family:Candara;
+	color:#e8e8e8;
+	font-size:32px;
+	padding-top:15px;
+	padding-left:15px;
+}
+
+#aut{
+	font-family:Candara;
+	color:#ffa800;
+	font-size:18px;
+	padding-left:30px;
+}
+
+#line{
+	background-color:#fbfbfb;
+	text-align:center;
+	border-bottom:1px solid #dcdcd4;
+	height:40px;
+}
+
+#outwr{
+	margin-top: 50px;
+	margin-left:auto;
+	margin-right:auto;
+	width: 800px;
+	background-color:#fbfbfb;
+	border:1px solid #dcdcd4;
+}
+
+#name{
+	margin-top:15px;
+	margin-left:10px;
+	margin-right:10px;
+	height:35px;
+	font-size:22px;
+	border-bottom:1px solid #cacaca;
+}
+
+#cont{
+	margin:10px;
+	margin-left:20px;
+	margin-right:20px;
+	font-size:14px;
+}
+
+.but{
+	border:0;
+	margin-right:2px;
+	border-right:1px solid #dcdcd4;
+	border-left:1px solid #dcdcd4;
+	height:40px;
+	cursor:pointer;
+}
+
+.pre{
+	padding-top:10px;
+	font-size:13px;
+	border-right:1px solid #dcdcd4;
+	border-left:1px solid #dcdcd4;
+	width:200px;
+	height:30px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+.but:hover{
+}
+
+.nd{
+	color:#555555;
+	padding-left:2px;
+}

@@ -1,0 +1,70 @@
+body{
+	background-color: #28231b;
+	margin:0px;
+	height:100%;
+}
+
+img{
+	border:5px solid #ffffff;
+	cursor:pointer;
+	display: inline !important;
+}
+
+input{
+	border:1px solid #3d342a;
+	background-color: #28231b;
+	color: #ffffff;
+	padding:5px;
+	margin-top:10px;
+}
+
+input:hover{
+	background-color:#443d31;
+	cursor:pointer;
+}
+
+#outer{
+	height: 280px;
+	width: 100%;
+	position:absolute;
+	top:30%;
+	padding-top:5px;
+	padding-bottom:5px;
+}
+
+#strip{
+	background-color: #3d342a;
+	height: 270px;
+	width:100%;
+	margin-top:5px;	
+	position:absolute;
+	z-index:-1;
+}
+
+#fotos{
+	margin-left:auto;
+	margin-right:auto;
+	width:auto;
+	text-align:center;
+}
+
+#info{
+	color:#ffffff;
+	font-size:12px;
+	text-align:center;
+	margin-bottom:10px;
+}
+
+#pasekbg{
+	background-color:black; 
+	padding:5px; 
+	width:200px; 
+	margin-left:auto; 
+	margin-right:auto;
+}
+
+#pasek{
+	background-color:white; 
+	height:10px;
+	width:0%;
+}

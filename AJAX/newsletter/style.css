@@ -1,0 +1,43 @@
+body{
+	background-color:#eee;
+	margin:0px;
+	padding:0px;
+	font-family:Georgia;
+}
+
+h2{
+	margin-top:0px;
+	margin-bottom:5px;
+	color: #353535;
+}
+
+h3{
+	margin-top:0px;
+	margin-bottom:0px;
+	margin-left:5px;
+	font-size:14px;
+	color: #353535;
+}
+
+#line{
+	height:35px;
+	border-top:1px solid black;
+	background-color:#333;
+	color:white;
+	font-family:Georgia;
+	font-size:22px;
+	padding-top:10px;
+	padding-left:30px;
+}
+
+#content{
+	margin-top:30px;
+	margin-left:20px;
+	margin-right:20px;
+	padding:10px;
+	height:180px;
+	border:1px solid #cccccc;
+	background-color: #f6f6f6;
+}
+
+.but{}

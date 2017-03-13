@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kolekcja>
+
+	<album id="fenefe">
+		<tytul>Efekt</tytul>
+		<wykonawca>Fenomen</wykonawca>
+		<utwory>
+			<utwor czas="1:20">Intro</utwor>
+			<utwor czas="4:02">Płyta</utwor>
+			<utwor czas="5:38">Yelonky</utwor>
+			<utwor czas="3:40">Sensacja</utwor>
+			<utwor czas="3:46">Pozory</utwor>
+			<utwor czas="1:00">Wyjazd</utwor>
+			<utwor czas="4:11">Teksty</utwor>
+			<utwor czas="5:15">Marzenia</utwor>
+			<utwor czas="3:34">Fenomenada</utwor>
+			<utwor czas="4:08">Czas</utwor>
+			<utwor czas="4:34">Szansa</utwor>
+			<utwor czas="0:55">Skit</utwor>
+			<utwor czas="4:17">Zmiany</utwor>
+			<utwor czas="4:32">Rutyna</utwor>
+			<utwor czas="4:58">Prawda</utwor>
+			<utwor czas="4:00">Problemy</utwor>
+			<utwor czas="3:14">Obłęd</utwor>
+			<utwor czas="4:41">Sztama</utwor>
+			<utwor czas="1:09">Outro</utwor>
+		</utwory>
+	</album>
+	
+	<album id="gramswm">
+		<tytul>Światła Miasta</tytul>
+		<wykonawca>Grammatik</wykonawca>
+		<utwory>
+			<utwor czas="3:25">Wiatruczas</utwor>
+			<utwor czas="4:45">Nie ma czasu pomyśleć</utwor>
+			<utwor czas="3:44">Friko</utwor>
+			<utwor czas="5:19">Każdy ma chwile</utwor>
+			<utwor czas="1:04">Spacer</utwor>
+			<utwor czas="4:05">Nie ma skróconych dróg</utwor>
+			<utwor czas="5:02">Mówią mi</utwor>
+			<utwor czas="4:15">Puste pokoje</utwor>
+			<utwor czas="3:36">Zwyczajne marzenia</utwor>
+			<utwor czas="3:27">Jest już późno, pisze</utwor>
+			<utwor czas="4:21">Pamiętam</utwor>
+			<utwor czas="3:02">Wiatrucień</utwor>
+		</utwory>
+	</album>
+	
+	<album id="grampod">
+		<tytul>Podróże</tytul>
+		<wykonawca>Grammatik</wykonawca>		
+		<utwory>
+			<utwor czas="4:39">W drodze</utwor>
+			<utwor czas="3:37">Stracone dzieciaki</utwor>
+			<utwor czas="3:26">Rozmowa</utwor>
+			<utwor czas="3:35">Telefony</utwor>
+			<utwor czas="3:00">A wy</utwor>
+			<utwor czas="3:03">Chwila</utwor>
+			<utwor czas="3:35">Ścieci</utwor>
+			<utwor czas="3:29">Nigdy więcej</utwor>
+			<utwor czas="3:50">Ile jesteś w stanie...</utwor>
+			<utwor czas="3:41">Wiem, kim jestem</utwor>
+			<utwor czas="3:38">Kamienie</utwor>
+			<utwor czas="3:11">50 dróg</utwor>
+		</utwory>
+	</album>
+	
+	<album id="fensns">
+		<tytul>Sam na sam</tytul>
+		<wykonawca>Fenomen</wykonawca>
+		<utwory>
+			<utwor czas="1:26">Intro</utwor>
+			<utwor czas="4:28">Decyzje</utwor>
+			<utwor czas="3:21">To nie tak</utwor>
+			<utwor czas="4:31">Ludzie przeciwko ludzion</utwor>
+			<utwor czas="0:46">Skit</utwor>
+			<utwor czas="2:47">Jutro</utwor>
+			<utwor czas="3:37">Pozorna potrzeba</utwor>
+			<utwor czas="3:55">Dlaczego tak?</utwor>
+			<utwor czas="3:43">Stówa</utwor>
+			<utwor czas="0:50">Skit</utwor>
+			<utwor czas="4:03">Sam na sam</utwor>
+			<utwor czas="4:28">Powiedz</utwor>
+			<utwor czas="1:04">Skit</utwor>
+			<utwor czas="4:31">Nieidealny świat</utwor>
+			<utwor czas="3:27">Pamiętam jak kiedyś</utwor>
+			<utwor czas="1:50">Outro</utwor>
+		</utwory>
+	</album>
+	
+	<album id="pakkin">
+		<tytul>Kinematografia</tytul>
+		<wykonawca>Paktofonika</wykonawca>
+		<utwory>
+			<utwor czas="1:00">Na mocy paktu</utwor>
+			<utwor czas="5:12">Priorytety</utwor>
+			<utwor czas="3:22">Gdyby...</utwor>
+			<utwor czas="4:59">Ja to ja</utwor>
+			<utwor czas="3:35">Powierzchnie tnące</utwor>
+			<utwor czas="3:46">ToNieMy</utwor>
+			<utwor czas="2:17">Popatrz</utwor>
+			<utwor czas="4:37">Chwile ulotne</utwor>
+			<utwor czas="0:49">WC</utwor>
+			<utwor czas="3:44">Nowiny</utwor>
+			<utwor czas="6:00">Nie ma mnie dla nikogo</utwor>
+			<utwor czas="3:22">Jestem bogiem</utwor>
+			<utwor czas="4:58">Lepiej być nie może</utwor>
+			<utwor czas="5:47">Rób co chcesz...</utwor>
+			<utwor czas="4:00">W moich kręgach</utwor>
+			<utwor czas="13:03">2 Kilo</utwor>
+		</utwory>
+	</album>
+	
+	<album id="pakark">
+		<tytul>Archiwum Kinematografii</tytul>
+		<wykonawca>Paktofonika</wykonawca>
+		<utwory>
+			<utwor czas="0:49">Play + Rec</utwor>
+			<utwor czas="4:14">C.D Kinematografii</utwor>
+			<utwor czas="4:33">Dla pewnego swego</utwor>
+			<utwor czas="5:57">A robi się to tak</utwor>
+			<utwor czas="3:33">Mechaniczna pomarańcza</utwor>
+			<utwor czas="3:29">'Le sie zmahauem</utwor>
+			<utwor czas="4:24">Tak jak telewizor</utwor>
+			<utwor czas="4:18">Na mocy paktu</utwor>
+			<utwor czas="1:52">Aż strach pomyśleć</utwor>
+			<utwor czas="3:39">Wielka gra</utwor>
+			<utwor czas="3:45">Ja to ja 2</utwor>
+			<utwor czas="4:26">Dejot rusza czarne płyty</utwor>
+			<utwor czas="3:37">W peunej gotowości</utwor>
+			<utwor czas="9:27">Znikam</utwor>
+		</utwory>
+	</album>
+	
+</kolekcja>

@@ -1,0 +1,43 @@
+
+input,select,textarea,label {
+    display:block;
+}
+
+label:not(:first-of-type) {
+    margin-top:1rem;
+}
+
+form {
+    display:inline-block;
+    margin-top:5rem;
+    border:1px dotted black;
+    padding:2rem;
+    text-align:left;
+}
+
+body {
+    text-align:center;
+}
+
+.klikalny{
+    display: inline;
+    margin-top: 1rem;
+}
+
+input[type="checkbox"]:checked + label {
+    background: red;
+    color: azure;
+}
+/*
+input[type="radio"] + label {
+    display: inline-block;
+}
+*/
+.kolko{
+    display: inline;
+        margin-top: 1rem;
+}
+input:not[type="radio"],textarea {
+    display: block;
+    margin: .5rem;
+}
